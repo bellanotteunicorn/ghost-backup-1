@@ -1,0 +1,31 @@
+
+Love open source? We’re hiring Node.js Engineers to work on Ghost full-time.
+https://careers.ghost.org/product-engineer-node-js
+
+- Inspecting operating system
+- Checking for deprecations
+
+[11:26:52] Checking system Node.js version [started]
+[11:26:52] Checking system Node.js version - found v14.20.0 [title changed]
+[11:26:53] Checking system Node.js version - found v14.20.0 [completed]
+[11:26:53] Ensuring user is not logged in as ghost user [started]
+[11:26:53] Ensuring user is not logged in as ghost user [skipped]
+[11:26:53] Checking if logged in user is directory owner [started]
+[11:26:53] Checking if logged in user is directory owner [skipped]
+[11:26:53] Checking current folder permissions [started]
+[11:26:53] Checking current folder permissions [completed]
+[11:26:53] Validating config [started]
+[11:26:53] Validating config [completed]
+[11:26:53] Checking memory availability [started]
+[11:26:53] Checking memory availability [completed]
+[11:26:53] Checking binary dependencies [started]
+[11:26:53] Checking binary dependencies [completed]
+- Starting Ghost: loliconnetwork-com
+✔ Starting Ghost: loliconnetwork-com
+
+------------------------------------------------------------------------------
+
+Your admin interface is located at: 
+
+    https://loliconnetwork.com/ghost/
+
